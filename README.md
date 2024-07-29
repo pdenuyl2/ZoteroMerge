@@ -2,6 +2,7 @@
 Merge citations exported from Zotero with NOAA 'omics publications tracking spreadsheet
 
 Directions for downloading citations not available from Web of Science (via Zotero)
+
 Example: Journal - Environmental DNA 
 *Method works for any citation able to be imported into Zotero* 
 ***Example done in Zotero 6.0.37
